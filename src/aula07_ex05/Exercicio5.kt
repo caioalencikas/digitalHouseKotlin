@@ -1,5 +1,5 @@
 package aula07_ex05
-
+/*
 fun main() {
     val carro = Veiculo("Fiat", "Uno", 1994, "Preta", 50000f)
     val cliente = Cliente("Caio", "Alencikas", "caio.teste")
@@ -14,5 +14,5 @@ fun main() {
     concessonaria.registrarVenda(carro, cliente, 10000.00)
     println(concessonaria.vendas)
 }
-
+*/
 
